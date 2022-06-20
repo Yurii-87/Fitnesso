@@ -590,7 +590,7 @@ h6 {
   align-self: start;
 }
 .sandra__name {
-  font-family: Permanent Marker;
+  font-family: "Permanent Marker";
   font-style: normal;
   font-weight: normal;
   letter-spacing: 1px;
@@ -1359,7 +1359,7 @@ h6 {
   object-fit: cover;
 }
 .sweet__lable {
-  font-family: Permanent Marker;
+  font-family: "Permanent Marker";
   letter-spacing: 1px;
   color: #ffffff;
   position: absolute;
